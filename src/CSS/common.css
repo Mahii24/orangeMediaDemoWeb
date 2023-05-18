@@ -1,0 +1,31 @@
+.textfontfamily {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.underline_bricks {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.Assuredtext {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    z-index: 1;
+    background-color: #5E4599;
+    color: white;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+}
+
+.selectCity {
+    border-radius: 8px;
+    border-color: #FD3752;
+    color: #FD3752;
+    background-color: #331F1E;
+}
+
+.footercolour {
+    background-color: #331F1E;
+}
